@@ -1,0 +1,87 @@
+esource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591289167322	Marionette	INFO	Listening on port 62182
+1591289167667	Marionette	WARN	TLS certificate errors will be ignored for this session
+04-06-2020 18:46:07.738 [Forwarding newSession on session null to remote] INFO  o.o.s.remote.ProtocolHandshake.createSession - Detected dialect: W3C
+1591289168523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileJTYqOD"
+1591289169027	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591289169604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591289169604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591289169604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591289169604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591289171963	Marionette	INFO	Listening on port 62214
+1591289172143	Marionette	WARN	TLS certificate errors will be ignored for this session
+04-06-2020 18:46:12.194 [Forwarding newSession on session null to remote] INFO  o.o.s.remote.ProtocolHandshake.createSession - Detected dialect: W3C
+04-06-2020 18:46:12.238 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/].log - Initializing Spring DispatcherServlet 'dispatcherServlet'
+04-06-2020 18:46:12.238 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Initializing Servlet 'dispatcherServlet'
+04-06-2020 18:46:12.241 [http-nio-8080-exec-1] INFO  o.s.web.servlet.DispatcherServlet.initServletBean - Completed initialization in 3 ms
+04-06-2020 18:46:12.917 [http-nio-8080-exec-6] INFO  e.c.s.n.NotificationService.notify - Purchase: customer=6, product=3
+1591289173011	Marionette	INFO	Stopped listening on port 62182
+1591289174445	Marionette	INFO	Stopped listening on port 62214
+1591289176543	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileWSL4Tu"
+1591289177039	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591289177794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591289177794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591289177794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591289177794	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591289180232	Marionette	INFO	Listening on port 62254
+1591289180727	Marionette	WARN	TLS certificate errors will be ignored for this session
+04-06-2020 18:46:20.772 [Forwarding newSession on session null to remote] INFO  o.o.s.remote.ProtocolHandshake.createSession - Detected dialect: W3C
+1591289181548	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileVpT4nb"
+1591289182076	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591289182656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591289182656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591289182656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591289182656	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591289184775	Marionette	INFO	Listening on port 62288
+1591289185182	Marionette	WARN	TLS certificate errors will be ignored for this session
+04-06-2020 18:46:25.240 [Forwarding newSession on session null to remote] INFO  o.o.s.remote.ProtocolHandshake.createSession - Detected dialect: W3C
+04-06-2020 18:46:25.914 [http-nio-8080-exec-5] INFO  e.c.s.n.NotificationService.notify - Purchase: customer=4, product=1
+1591289186119	Marionette	INFO	Stopped listening on port 62254
+1591289187565	Marionette	INFO	Stopped listening on port 62288
+1591289189626	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileOz3XYD"
+1591289190217	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591289191027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591289191027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591289191027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591289191027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591289193165	Marionette	INFO	Listening on port 62323
+1591289193256	Marionette	WARN	TLS certificate errors will be ignored for this session
+04-06-2020 18:46:33.307 [Forwarding newSession on session null to remote] INFO  o.o.s.remote.ProtocolHandshake.createSession - Detected dialect: W3C
+1591289194085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Windows\\TEMP\\rust_mozprofileOkhQQd"
+1591289194642	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591289195143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591289195143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591289195144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591289195144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1591289197669	Marionette	INFO	Listening on port 62353
+1591289197715	Marionette	WARN	TLS certificate errors will be ignored for this session
+04-06-2020 18:46:37.755 [Forwarding newSession on session null to remote] INFO  o.o.s.remote.ProtocolHandshake.createSession - Detected dialect: W3C
+1591289198220	Marionette	INFO	Stopped listening on port 62323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591289199544	Marionette	INFO	Stopped listening on port 62353
+04-06-2020 18:46:40.746 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor.shutdown - Shutting down ExecutorService 'applicationTaskExecutor'
+04-06-2020 18:46:40.747 [main] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean.destroy - Closing JPA EntityManagerFactory for persistence unit 'default'
+04-06-2020 18:46:40.748 [main] INFO  o.h.t.s.i.SchemaDropperImpl$DelayedDropActionImpl.perform - HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
+04-06-2020 18:46:40.751 [main] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-2 - Shutdown initiated...
+04-06-2020 18:46:40.757 [main] INFO  com.zaxxer.hikari.HikariDataSource.close - HikariPool-2 - Shutdown completed.
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 41.331 s - in SystemTests.WebInterfaceSystemTest
+[INFO] Running UnitaryTests.PurchaseServiceUnitaryTest
+[INFO] Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.41 s - in UnitaryTests.PurchaseServiceUnitaryTest
+[INFO]
+[INFO] Results:
+[INFO]
+[INFO] Tests run: 9, Failures: 0, Errors: 0, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  59.156 s
+[INFO] Finished at: 2020-06-04T18:46:42+02:00
+[INFO] ------------------------------------------------------------------------
